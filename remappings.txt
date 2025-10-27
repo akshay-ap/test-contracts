@@ -1,0 +1,2 @@
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+@safe-singleton-factory/=lib/safe-singleton-deployer-sol/
